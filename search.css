@@ -62,7 +62,7 @@ body{
   min-height: var(--ntp-logo-height);
   z-index: 1;
   background-repeat: no-repeat;
-  background-image: url('images/google-logo.svg');
+  background-image: url('google-logo.svg');
   forced-color-adjust: none;
   height:92px;
   width:272px;
